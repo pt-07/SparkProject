@@ -1,18 +1,14 @@
-# P5 (6% of grade): Spark, Loan Applications
+
 
 ## Overview
 
-In P5, we'll use Spark to analyze loan applications in WI.  You'll
-load your data to Hive tables and views so you can easily query them.
+We'll use Spark to analyze loan applications in WI. Data is loaded to Hive tables and views so you can easily query them.
 The big table (loans) has many IDs in columns; you'll need to join
 these against other tables or views to determine the meaning of these
 IDs.  In addition, you'll practice training a Decision Tree model to
 predict loan approval.
 
-**Important:** you'll answer 10 questions in P5.  Write
-  each question and it's number (e.g., "#q1: ...") as a comment in your
-  notebook prior to each answer so we can easily search your notebook
-  and give you credit for your answers.
+
 
 Learning objectives:
 
